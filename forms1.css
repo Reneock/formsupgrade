@@ -1,0 +1,16 @@
+body {
+	background-image: url(https://molawyersmedia.com/missouriinhouse/files/2021/01/STOCK-security-clearance.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+div {
+			height: 50vh;
+			width: 20%;
+			border: 5px solid purple;
+			margin-right: 50px;
+			margin-top: 50px;
+			margin-bottom: 60px;
+			padding-bottom: 30px;
+		}
